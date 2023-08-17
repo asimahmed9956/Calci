@@ -1,2 +1,2 @@
 # Calci
-A simple, interactive calculator made using html and css.
+A simple, interactive calculator made using html and css.The project is about creating a user-friendly calculator using HTML, CSS, and JavaScript. It helps you do simple math like adding, subtracting, multiplying, and dividing. The calculator looks nice and is easy to use. When you put in numbers or do calculations, you see the answers right away. It also tells you if you make mistakes like trying to divide by zero. The calculator is pretty and works well, so it's great for quick and easy online math.
